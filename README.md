@@ -2,12 +2,12 @@
 this repository is created to learn how implement KNN on specific purpose
 
 Requirements:
-python
-pandas
-matplotlib
-seaborn
-numpy
-sklearn
+python      = as Programming language
+pandas      = as data manipulation
+matplotlib  = as data visualization
+seaborn     = as data visualization too (Require import matplotlib to use this module)
+numpy       = for matrix manipulation
+sklearn     = as KNN algorithm framework
 
 you can install all in once by using this step, but you must install python 3.x.x first!:
 
